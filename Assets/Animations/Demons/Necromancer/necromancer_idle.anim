@@ -20,15 +20,15 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: 2c995980e2160764c812cc2e34a44e27, type: 3}
+      value: {fileID: 21300000, guid: 07e9d5155c4dc2a439e7eff77d0e3da7, type: 3}
     - time: 0.1
-      value: {fileID: 21300000, guid: dc3d701bf44442c4f8bffe33e5262f59, type: 3}
+      value: {fileID: 21300000, guid: a73f19e5feeb35b449ad299bda157cf1, type: 3}
     - time: 0.2
-      value: {fileID: 21300000, guid: 6db2989e313d73e4b9c46c23b7a5f219, type: 3}
+      value: {fileID: 21300000, guid: 26bd85985a4bfc840aa32734e89718d6, type: 3}
     - time: 0.3
-      value: {fileID: 21300000, guid: 0005d4c4c293eb24480143519aadf77a, type: 3}
+      value: {fileID: 21300000, guid: 08bc68ce47812db439d652fb0e4442f2, type: 3}
     attribute: m_Sprite
-    path: 
+    path: necromancer
     classID: 212
     script: {fileID: 0}
   m_SampleRate: 10
@@ -39,17 +39,17 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 0
+      path: 2405428388
       attribute: 0
       script: {fileID: 0}
       typeID: 212
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 2c995980e2160764c812cc2e34a44e27, type: 3}
-    - {fileID: 21300000, guid: dc3d701bf44442c4f8bffe33e5262f59, type: 3}
-    - {fileID: 21300000, guid: 6db2989e313d73e4b9c46c23b7a5f219, type: 3}
-    - {fileID: 21300000, guid: 0005d4c4c293eb24480143519aadf77a, type: 3}
+    - {fileID: 21300000, guid: 07e9d5155c4dc2a439e7eff77d0e3da7, type: 3}
+    - {fileID: 21300000, guid: a73f19e5feeb35b449ad299bda157cf1, type: 3}
+    - {fileID: 21300000, guid: 26bd85985a4bfc840aa32734e89718d6, type: 3}
+    - {fileID: 21300000, guid: 08bc68ce47812db439d652fb0e4442f2, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b717dbfd7b09df44da5103eed876cfba, type: 3}
+  m_Name: EnemyFairys
+  m_EditorClassIdentifier: 
+  itemToSpawn:
+  - {fileID: 5981708657365563214, guid: 3571b978fd91e27468705ec99eb5c4fe, type: 3}
+  - {fileID: 5981708657365563214, guid: 388acb51d04f6f5469622fa23c2db5f1, type: 3}
+  - {fileID: 5981708657365563214, guid: 372977aa1e1fa6d4c91a80660c8933d1, type: 3}
+  - {fileID: 5443241634381359880, guid: 59eae7ed16f72aa49864b2854a9a3bbb, type: 3}
+  - {fileID: 5981708657365563214, guid: 5c8daa63b803cf340bfb24b0af4a24c0, type: 3}
+  minSpawn: 3
+  maxSpawn: 4

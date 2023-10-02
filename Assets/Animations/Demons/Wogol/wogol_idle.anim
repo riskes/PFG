@@ -20,15 +20,15 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: a11699ecf89271147b4b905a106ce901, type: 3}
+      value: {fileID: 21300000, guid: 2c2911c3a44acb84f9c3833ea3ac86d6, type: 3}
     - time: 0.1
-      value: {fileID: 21300000, guid: 11e6a73c52711b14dbf2cdc9d710f1eb, type: 3}
+      value: {fileID: 21300000, guid: eeb4b94ca8cfc7b4faeb34f7f6e3c848, type: 3}
     - time: 0.2
-      value: {fileID: 21300000, guid: b9daff57dcb8a3f46a80f5762ab3fe69, type: 3}
+      value: {fileID: 21300000, guid: c5e4d0b8aa4ef344c8360895528f35de, type: 3}
     - time: 0.3
-      value: {fileID: 21300000, guid: 9ca2e894b37e78047bc205ab1a6f2cbf, type: 3}
+      value: {fileID: 21300000, guid: 56827e0fa6df47c459ba274cc8269107, type: 3}
     attribute: m_Sprite
-    path: 
+    path: Wogol
     classID: 212
     script: {fileID: 0}
   m_SampleRate: 10
@@ -39,17 +39,17 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 0
+      path: 3299705901
       attribute: 0
       script: {fileID: 0}
       typeID: 212
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: a11699ecf89271147b4b905a106ce901, type: 3}
-    - {fileID: 21300000, guid: 11e6a73c52711b14dbf2cdc9d710f1eb, type: 3}
-    - {fileID: 21300000, guid: b9daff57dcb8a3f46a80f5762ab3fe69, type: 3}
-    - {fileID: 21300000, guid: 9ca2e894b37e78047bc205ab1a6f2cbf, type: 3}
+    - {fileID: 21300000, guid: 2c2911c3a44acb84f9c3833ea3ac86d6, type: 3}
+    - {fileID: 21300000, guid: eeb4b94ca8cfc7b4faeb34f7f6e3c848, type: 3}
+    - {fileID: 21300000, guid: c5e4d0b8aa4ef344c8360895528f35de, type: 3}
+    - {fileID: 21300000, guid: 56827e0fa6df47c459ba274cc8269107, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

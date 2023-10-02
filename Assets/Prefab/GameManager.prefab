@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7824793279300734913
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7824793279300734919}
+  - component: {fileID: 7824793279300734912}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7824793279300734919
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7824793279300734913}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.43, y: 0.43863294, z: 0.13427293}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7824793279300734912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7824793279300734913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd1c174fe962bd249a8849418056a1e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerChoosed: 0
+  players:
+  - {fileID: 8366074549083711542, guid: fda492dad6bdd2e469d6870a37efe2e6, type: 3}
+  - {fileID: 8871770962217095080, guid: b4ded3ce09bed03409ae3ab3b4300113, type: 3}
+  - {fileID: 8384019572380081826, guid: dd217d41dfd5cd44ebe54ca750dc474f, type: 3}
+  weaponClass:
+  - weaponSprites:
+    - {fileID: 21300000, guid: 6f359f768ed240e47b3a8e3243b19bff, type: 3}
+    - {fileID: 21300000, guid: afcdce448bf2b3145a75acc0e499f3f2, type: 3}
+    - {fileID: 21300000, guid: e30c318c1f667274bbdcd6017134d117, type: 3}
+  - weaponSprites:
+    - {fileID: 21300000, guid: 9ed9342a49d1f504d8dcb19b5935f881, type: 3}
+    - {fileID: 21300000, guid: 751c2aaf81ce3354bbafd322276c029c, type: 3}
+    - {fileID: 21300000, guid: 47614baceb9c87940af0ac623f5b387f, type: 3}
+  - weaponSprites:
+    - {fileID: 21300000, guid: a787cc99fc561aa4382cf815ed6edb28, type: 3}
+    - {fileID: 21300000, guid: 7325f2deae66d36458954be927f1dc5c, type: 3}
+    - {fileID: 21300000, guid: 1cb666d13d4df3243891d475c7520716, type: 3}
+  weaponPrices: 1900000032000000
+  xpTable: 0a0000001400000027000000
+  player: {fileID: 0}
+  weapon: {fileID: 0}
+  floatingTextManager: {fileID: 0}
+  pesos: 250
+  experience: 0

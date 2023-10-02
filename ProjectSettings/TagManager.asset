@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fighter
+  - Bullet
+  - Audio
+  - Button
+  - MenuOptions
+  - LoadingScreen
   layers:
   - Default
   - TransparentFX
@@ -12,13 +18,13 @@ TagManager:
   - Water
   - UI
   - Obstacle
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - PlayerBullet
+  - EnemyBullet
+  - Porta
+  - ObstacleProjectils
+  - Explosion
   - 
   - 
   - 
